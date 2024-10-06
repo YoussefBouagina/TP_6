@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">Youssef Bouagina</string>
+    <string name="title">Contact</string>
+    <string name="phone_number">+216 51380134</string>
+    <string name="social_media"> WhatsApp </string>
+    <string name="email">youssef.bbbouagina@gmail.com</string>
+</resources>
